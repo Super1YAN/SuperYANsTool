@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1400903059 source:d:\mypro\superyan\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
